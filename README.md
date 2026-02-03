@@ -1,2 +1,0 @@
-# onepercent
-ONEPERCENT Webpage
